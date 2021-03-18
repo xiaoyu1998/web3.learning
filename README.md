@@ -1,1 +1,3 @@
 # study-notes
+zksync
+makerdao

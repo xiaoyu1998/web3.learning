@@ -1,1 +1,1 @@
-# zksync-study-notes
+# study-notes

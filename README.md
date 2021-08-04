@@ -1,6 +1,13 @@
 # study-notes
-zksync
-makerdao
-stablecoin
-uniswap-V3
-alchemix-protocol
+##makerdao
+##stablecoin
+##uniswap
+##alchemix-protocol
+##eth2
+##ethereum
+##optimism
+##arbitrum
+##zksync
+##solana
+##eos
+##curve

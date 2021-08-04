@@ -5,4 +5,4 @@ eos eth2 ethereum solana
 optimism arbitrum zksync
 
 ## defi
-makerdao stablecoin uniswap alchemix-protocol curve
+makerdao stablecoin uniswap sushiswap alchemix-protocol curve

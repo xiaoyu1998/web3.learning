@@ -1,13 +1,17 @@
-# study-notes
-##makerdao
-##stablecoin
-##uniswap
-##alchemix-protocol
-##eth2
-##ethereum
-##optimism
-##arbitrum
-##zksync
-##solana
-##eos
-##curve
+# chain
+## eth2
+## ethereum
+## solana
+## eos
+
+# L2
+## optimism
+## arbitrum
+## zksync
+
+# defi
+## makerdao
+## stablecoin
+## uniswap
+## alchemix-protocol
+## curve

@@ -1,8 +1,2 @@
-## chain
-eos eth2 ethereum solana
-
-## L2
-optimism arbitrum zksync
-
-## defi
-makerdao stablecoin uniswap sushiswap alchemix-protocol curve
+## blockchain
+this repo records my source code reading, if you got problems with other interesting projects, which do not list here, please leave me a message.

@@ -9,6 +9,7 @@ ACTION call::test(uint64_t i, uint64_t j)
 {
 
     balance1 = 10;
+    //balance2 = 10;
 
     test_static1 = i;
     test_static2 = j;
@@ -16,7 +17,7 @@ ACTION call::test(uint64_t i, uint64_t j)
     print_log();
 
     print(balance1);
-    print(balance2);
+    //print(balance2);
 }
 
 

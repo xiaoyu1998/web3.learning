@@ -1,4 +1,4 @@
-## build llvm in linux
+## build llvm
 ```
 $ git clone git@github.com:llvm/llvm-project.git --recursive  
 $ cd llvm-project

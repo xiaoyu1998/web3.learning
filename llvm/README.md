@@ -9,6 +9,8 @@
 
 ## build&execute kaleidoscope
 ```
-6.LLVM_SYS_140_PREFIX=/home/xiaoyu/work/tools/llvm-project/build cargo build --features llvm14-0 --example kaleidoscope
+6.git clone git@github.com:TheDan64/inkwell.git --recursive 
+7.cd inkwell
+6.LLVM_SYS_140_PREFIX=/to/path/llvm-project/build cargo build --features llvm14-0 --example kaleidoscope
 7../target/debug/kaleidoscope --dc --dp --dl
 ```
